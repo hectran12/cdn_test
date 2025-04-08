@@ -10,7 +10,13 @@
 			"ulvm2_0001.4096/texture_04.png"
 		],
 		"Physics": "ulvm2_0001.physics3.json",
-		"DisplayInfo": "ulvm2_0001.cdi3.json"
+		"DisplayInfo": "ulvm2_0001.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "Angry",
+                "File": "animation/angry.exp3.json"
+			}
+		]
 	},
 	"Groups": [
 		{
@@ -25,3 +31,4 @@
 		}
 	]
 }
+
